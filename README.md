@@ -1,3 +1,4 @@
+![logo](https://github.com/Sobia1916/Sobia1916/blob/main/mybanner.jpg)
 <h1 align="center">Hi 👋, I'm Sobia Ghani</h1>
 <h3 align="center">Experienced Frontend Developer with a knack for crafting captivating user experiences. Also skilled in social media management and digital marketing strategies</h3>
 
