@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://sobiaportfolio.netlify.app/](https://sobiaportfolio.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, React.Js, Node.Js, Vue.js TailwindCss, Responsive design, WordPress, Wix, web flow, Figma**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.Js, Node.Js, Vue.js TailwindCss, Responsive design, WordPress, Wix, web flow, Figma**
 
 - 📫 How to reach me **sbgs1916@gmail.com**
 
-- ⚡ Fun fact **I think i am Introvert**
+- ⚡ Fun fact **I think I am Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
